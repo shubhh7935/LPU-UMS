@@ -1,1 +1,24 @@
-
+body{
+   /* background-color: aqua; */
+}
+.link-names-in-header{
+   background-color: #feffff;
+   color: rgb(6, 6, 6);
+   padding: 12px;
+   font-size: 16px;
+   border: none;
+   margin-left: 20px;
+}
+#link-names-in-header{
+   background-color: #feffff;
+   color: rgb(0, 0, 0);
+   padding: 12px;
+   font-size: 16px;
+   border: none;
+   margin-left: 190px;
+}
+.header{
+   display: flex;
+   align-items: center;
+   flex-direction: row;
+}
